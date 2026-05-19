@@ -28,3 +28,4 @@ public:
         cout << "pelajar dibuat dengan umur " << umur << endl;
     }
 };
+ 
