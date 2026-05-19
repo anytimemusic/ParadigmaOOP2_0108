@@ -39,3 +39,4 @@ public:
         cout << "budi dibuat dengan umur " << umur << endl;
     }
 };
+
